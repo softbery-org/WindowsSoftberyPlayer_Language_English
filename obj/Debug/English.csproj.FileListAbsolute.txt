@@ -1,0 +1,9 @@
+E:\Projects\Developing\WindowsSoftberyPlayer\English\bin\Debug\English.dll
+E:\Projects\Developing\WindowsSoftberyPlayer\English\bin\Debug\English.pdb
+E:\Projects\Developing\WindowsSoftberyPlayer\English\bin\Debug\Translator.dll
+E:\Projects\Developing\WindowsSoftberyPlayer\English\bin\Debug\Translator.pdb
+E:\Projects\Developing\WindowsSoftberyPlayer\English\obj\Debug\English.csproj.AssemblyReference.cache
+E:\Projects\Developing\WindowsSoftberyPlayer\English\obj\Debug\English.csproj.CoreCompileInputs.cache
+E:\Projects\Developing\WindowsSoftberyPlayer\English\obj\Debug\English.csproj.CopyComplete
+E:\Projects\Developing\WindowsSoftberyPlayer\English\obj\Debug\English.dll
+E:\Projects\Developing\WindowsSoftberyPlayer\English\obj\Debug\English.pdb
